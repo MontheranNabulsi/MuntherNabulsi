@@ -1,6 +1,6 @@
 # About Me
 
-##  Tools  &  
+##  Tools  &  Technologies
 
 <table>
 <tr>
